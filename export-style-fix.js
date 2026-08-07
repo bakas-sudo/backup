@@ -1,3 +1,5 @@
+import "./index-BFDq5ggH.js";
+
 (function () {
   "use strict";
 
