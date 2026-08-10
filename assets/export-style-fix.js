@@ -93,7 +93,7 @@ import "./index-BFDq5ggH.js";
         "padding": "0",
         "border": "0",
         "color": "#315c5c",
-        "font-size": "12px",
+        "font-size": "14px",
         "font-weight": "700"
       });
     });
